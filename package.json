@@ -26,8 +26,8 @@
   },
   "homepage": "https://github.com/subtirelumihail/react-fullpage#readme",
   "dependencies": {
-    "react": "^0.14.0",
-    "react-dom": "^0.14.0"
+    "react": "^15.1.0",
+    "react-dom": "^15.1.0"
   },
   "devDependencies": {
     "babel": "^5.8.23",
